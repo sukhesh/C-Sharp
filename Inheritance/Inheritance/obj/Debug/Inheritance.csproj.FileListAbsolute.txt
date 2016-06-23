@@ -1,0 +1,5 @@
+D:\HD_Technology\C# Practice\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+D:\HD_Technology\C# Practice\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\HD_Technology\C# Practice\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\HD_Technology\C# Practice\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+D:\HD_Technology\C# Practice\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
