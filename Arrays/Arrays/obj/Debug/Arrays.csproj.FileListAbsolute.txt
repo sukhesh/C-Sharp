@@ -1,0 +1,5 @@
+D:\HD_Technology\C# Practice\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\HD_Technology\C# Practice\Arrays\Arrays\bin\Debug\Arrays.exe
+D:\HD_Technology\C# Practice\Arrays\Arrays\bin\Debug\Arrays.pdb
+D:\HD_Technology\C# Practice\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\HD_Technology\C# Practice\Arrays\Arrays\obj\Debug\Arrays.pdb
